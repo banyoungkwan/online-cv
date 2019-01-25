@@ -4,197 +4,159 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Youngkwan Ban
+    tagline: Ph.D. in Media and Communication
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: yban3@illinois.edu
+    phone: +82-10-8860-6950
+    website: banyoungkwan.github.io #do not add http://
+    linkedin: youngkwan-ban-91202647
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@_sheepelss'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Functional
 
     interests:
-      - item: Climbing
+      - item: Ashtanga Yoga
         link:
 
-      - item: Snowboarding
+      - item: Contemporary Classical Music
         link:
 
-      - item: Cooking
+      - item: Books, except selved in "self-development"
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am currently completing a Ph.D. at the University of Illinois at Urbana-Champaign, USA in media and communication, and I expect to graduate in May 2019. My main research interest is in media as a memory-dispositif that affects the selective memory that often accompanies the development of South Korean collective identity-politics. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Media and Communication
+      university: University of Illinois, Urbana-Champagin. USA
+      time: 2013 - (present)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+         - Dissertation (PhD) Title: “We Will Remember You, Forever”: Active Forgetting of Moo-hyun Roh in the Age of Mediatized Memories (Defended at Sep 18, 2018) 
+         - The paper interrogates the regeneration and transformation of cultural memory by asking what emerges when memory and the politics of time interact with a particular emphasis on the performance of spontaneous forgetting and selective recollection.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: MA in Cultural Studies
+      university: Goldsmiths, University of London, UK
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        - Dissertation (MA) Title: “‘Che-chic’: Read Contemporary Appearances of ‘Che’ Guevara as Allegory”
 
-          - Bullet point
-          - Bullet point
+    - degree: BA in Information and Communication 
+      university: Hankuk University of Foreign Studies, South Korea
+      time: 2001 - 2007
+      details: |
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Teaching Assistant
+      time: 2013 - (present)
+      company: University of Illinois at Urbana-Champaign, USA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+       Instructed in the Department of Media and Cinema Studies at UIUC, helping students understand popular culture in contemporary media. I was selected "Teachers Ranked as Excellent," UIUC, Spring 2016. 
+        - Course instructor: MACS 101 Introduction to Media Studies (Fall 2015, Spring 2016, Spring 2018) (see Appendix A. for the syllabus of the course) 
+        - Teaching Assistant: MACS100 Introduction to Popular TV & Movies (Fall 2013 - Spring 2015)
+        - Teaching Asistant: MACS356 Sex & Gender in Popular Media (Summer 2016)
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: IELTS Marketing Manager
+      time: 2012 - 2013
+      company: British Council, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Plan and administrate all business activities for examinations of British Council, including IELTS, in South Korea
+        - Web-site construction / online log analysis
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Examination Services Officer 
+      time: 2011 - 2012
+      company: British Council, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Operate current marketing activities for promoting British Council’s examinations services
 
-          - Bullet point
-          - Bullet point
+    - role: On-line Marketer and Teenage-community Administrator
+      time: 2009 - 2011
+      company: Kyobo Ltd, South Korea
+      details: |
+        - Initiated new project ‘Teen-Q’, the on-line community for teenagers 
+        - knowledge search service as project manager
+
+    - role: Campaign Assistant Intern
+      time: 2009 - 2009
+      company: Amnesty International Korea, South Korea
+      details: |
+        - Coordinating online/offline campaign
+        - Translating English articles about human right violation cases worldwide into Korean knowledge search service as project manager
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    title: Conference Presentation
+    intro: |    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Remembering People’s Sovereignty Through Active Forgetting
+        link: https://cgscholar.com/cg_event/events/P19/proposal/38776/proposal_details
+        tagline: the Fourth International Conference on Communication & Media Studies at University of Bonn, Bonn, Germany, Sep 2019 (upcoming)
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: “We will not forget you, Forever”
+        link: https://english.swps.pl/protest-and-dissent
+        tagline: Protest and Dissent in Translation and Culture, Warsaw, Poland, May 2017.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Echoing Ghosts
+        link: https://icqi.org/wp-content/uploads/2013/02/QI2015.pdf
+        tagline: 11st International Congress of Qualitative Inquiry, Urbana, Il, May 2016. 
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    intro: |      
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Talking to the Small Tableau – Touring the site of mediatized memory and forgiveness in Bongha
+        link: https://journals.sagepub.com/doi/abs/10.1177/1532708618819632
+        authors: Youngkwan Ban
+        conference: Cultural Studies <=> Critical Methodologies, (2018, Online-first) 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Echoing Ghosts
+        link: https://journals.sagepub.com/doi/10.1177/1077800418810976
+        authors: Youngkwan Ban, Jungwoo Lee
+        conference: Qualitative Inquiry, (2018, Online-first)
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# skills:
+#    title: Skills &amp; Proficiency
 
-skills:
-    title: Skills &amp; Proficiency
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     - name: Javascript & jQuery
+#       level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Angular
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: Ruby on Rails
+#        level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
